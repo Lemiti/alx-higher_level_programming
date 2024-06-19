@@ -1,6 +1,6 @@
 #!/usr/bin/node
 const first ='C is fun';
 const second = 'Python is cool';
-const third = 'JavaScript is amazing';
+const third = 'JavaScript is amazing\n';
 
-console.log(first + '\n' + second + '\n' + third + '\n');
+console.log(first + '\n' + second + '\n' + third);
